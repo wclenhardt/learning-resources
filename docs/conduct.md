@@ -1,6 +1,6 @@
 # Code of Conduct
 
-OceanHackWeek is dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organizers.
+The community is dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organizers.
 
 Harassment includes, but is not limited to:
 
@@ -15,7 +15,7 @@ Harassment includes, but is not limited to:
 
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from OceanHackWeek with no refund.
 
-OceanHackWeek organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. We expect participants to follow these rules at all the event venues and event-related social activities.
+Organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. We expect participants to follow these rules at all the event venues and event-related social activities.
 
 
 ## Reporting a violation
@@ -25,7 +25,7 @@ This anti-harassment policy is based on the example policy from the Geek Feminis
 
 
 ## Group discussion
-**Q: What can each of us do to make OceanHackWeek an optimal learning environment that is inclusive and welcoming for everyone?**
+**Q: What can each of us do to make an optimal learning environment that is inclusive and welcoming for everyone?**
 
 - Be respectful to others’ views; whether it’s technical question or scientific hypothesis
 - Be inclusive regardless of technical expertise and career stage (emphasize the growth mindset)
