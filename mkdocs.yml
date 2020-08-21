@@ -41,7 +41,7 @@ extra_css:
 extra:
   hackweek:
     name: RAPID Hack
-    web_url: https://rapid-research.github.io/rapid-learning-resources/
+    web_url: https://rapid-research.github.io/learning-resources/
     slack_url: https://waterhackweek.slack.com
     github_org_url: https://github.com/rapid-research/
     jupyterhub_url: https://jupyter.cuahsi.org 
