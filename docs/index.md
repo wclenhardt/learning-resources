@@ -14,24 +14,17 @@ This setup is particularly powerful for sciences that require not only domain-sp
 knowledge but also effective computational workflows to foster rapid exchange of ideas
 and make discovery.
 
-This is an excellent match with the nature of oceanographic research
-where data are large and complex and the community is diverse and collaborative.
-The hackweek model adopted by [OceanHackWeek](https://oceanhackweek.github.io) was spearheaded by 
-the successful [*Astro-*](http://astrohackweek.org/),
-[*Neuro-*](https://neurohackweek.github.io/), and [*Geohackweek*](https://geohackweek.github.io/).
-
-
 ## Mission Statement
 
 ### Core objectives
-The core objectives of OceanHackWeek are:
+The core objectives are:
 
-1. **Promote data and software proficiency in the ocean sciences community:** Provide oceanographers with computational and data science skills to advance modern oceanographic research, which often requires the integration and manipulation of diverse sources of big data and models.
+1. **Promote data and software proficiency in the ocean sciences community:** Provide computational and data science skills to advance modern  research, which often requires the integration and manipulation of diverse sources of big data and models.
 
-2. **Facilitate inclusive community building:** Connect oceanographers across disciplines, career stages and trajectories, and diversity of experience and identity to cultivate an inclusive, open and sharing culture that catalyzes data-intensive research.
+2. **Facilitate inclusive community building:** Connect across disciplines, career stages and trajectories, and diversity of experience and identity to cultivate an inclusive, open and sharing culture that catalyzes data-intensive research.
 
 ### Training and education
-We will share knowledge in modern software tools aimed at handling increasingly large and complex oceanographic datasets. Our approach will be to develop templates for best practices in solving common oceanographic data science challenges, built off a set of sample datasets provided during the hackathon. We will learn from leading experts in various fields, and use this knowledge to develop educational content that can be shared across disciplines long after the event. Our training will focus on software tools, but we will also explore challenges in successfully navigating complexity in project management and design.
+We will share knowledge in modern software tools aimed at handling increasingly large and complex oceanographic datasets. Our approach will be to develop templates for best practices in solving common data science challenges, built off a set of sample datasets provided during the workshop. We will learn from leading experts in various fields, and use this knowledge to develop educational content that can be shared across disciplines long after the event. Our training will focus on software tools, but we will also explore challenges in successfully navigating complexity in project management and design.
 
 ### Networking and community building
 We will connect students, faculty, software developers and others across industry, government and academic settings. The connections we make during the hackathon will be maintained through an online user community. We hope our activities can foster the growth of an interdisciplinary network for solving Earth science challenges.
@@ -62,6 +55,7 @@ We require all participants to work through the following lessons in advance of 
 * [Lesson 1](github.md): setting up a GitHub account
 * [Lesson 2](jupyterhub.md): connecting to our shared cloud computing environment
 * [Lesson 3](conda.md): installing Python on your laptop
+* [Lesson 4](hydroshare.md): setting up a HydroShare account 
 
 ### Learning Python Basics
 
