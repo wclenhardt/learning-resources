@@ -1,6 +1,6 @@
 # Learning resources and workshop tutorials site
 
-RAPID infrastructure and cybertraining for scientific research before the next hurricane season, [https://rapid.github.io](https://rapid.github.io)
+RAPID infrastructure and cybertraining for scientific research before the next hurricane season, [https://rapid-research.github.io/learning-resources/](https://rapid-research.github.io/learning-resources/)
 
 ## Technical notes for site development
 
