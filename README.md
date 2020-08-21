@@ -1,6 +1,6 @@
 # OceanHackWeek learning resources and preliminary tutorials site
 
-OceanHackWeek, [https://oceanhackweek.github.io](https://oceanhackweek.github.io)
+RAPID infrastructure and cybertraining for scientific research before the next hurricane season, [https://rapid.github.io](https://rapid.github.io)
 
 ## Technical notes for site development
 
