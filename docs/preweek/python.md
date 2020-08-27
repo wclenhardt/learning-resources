@@ -6,7 +6,7 @@ Python software is distributed as a series of *libraries* that are called within
 
 Even though Python is one of the most adaptable, easy-to-use software systems, you can see there are still complexities to work out and potential challenges when delivering content to a large group. Therefore we have a number of different ways that we are trying to simplify this process to maximize your learning during Oceanhackweek.
 
-We will be using Ocean [Pangeo](https://pangeo.io/) ([http://ocean.pangeo.io](http://ocean.pangeo.io)), which is a platform for using Jupyter Notebooks in the ocean, atmospheric, and climate research community.
+We will be using Hydroshare Jupyter Hub Servers.
 A [Jupyter Notebook](https://jupyter.org/) is an open-source web application that allows users to create and share documents containing live code, equations, visualizations, and markdown texts.
 
 ## Setting up Python locally
@@ -38,3 +38,6 @@ Given all the heavy use of Python during Oceanhackweek, we will not be able to p
 The more, the better! Here are a few more Python resources:
 * [Codecademy Lesson](https://www.codecademy.com/learn/learn-python-3) (25 hours)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) (on your own pace)
+
+## Here's a video on using Python in a Jupyter Notebook with National Water Model Data
+* [National Water Model Video](videos/Github-Binder-JupyterNotebook-NWMdata.mp4)
