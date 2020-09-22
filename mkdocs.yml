@@ -8,7 +8,8 @@ nav:
     - logistics/overview.md
     - schedule.md
     - Getting Help: logistics/getting_help.md
-  - Pre-event Preparation:
+  - Readiness & Preparation:
+    - Terms and Language: canaryopera/terms.md
     - Git: prep/git.md
     - GitHub: prep/github.md
     - Jupyter and the Hub: prep/jupyterhub.md
