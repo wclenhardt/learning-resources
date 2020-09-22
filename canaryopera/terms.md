@@ -1,11 +1,34 @@
-## Vocabulary
+## Vocabulary and Terms: Piles by Topic
 
 This page explains some of the terms encountered during Cyberseminars and links to resources on where to learn more about them.
+
+### GeoHealth 
+
+Morbidity:
+
+Mortality: 
+
+Acute: 
+
+Chronic:  
+
+Longetudinal:  
+
+Mechanisms: 
+
+
+### Disaster Research  
+
+
+### Governance
+
+
 
 ### Platforms
 
 Hydroshare: an online, collaborative Hydrologic Information System for sharing hydrologic data, models, and code.
 
+DesignSafe: 
 
 ### Software Libraries
 
@@ -26,6 +49,10 @@ Docker: An image is a executable package that includes everything needed to run 
 Landlab – a Python-based modeling environment that allows scientists and students to build numerical landscape models.
 
 ## Acronyms
+
+__RAPID__: 
+
+__CECIA__: 
 
 __WHW__: Waterhackweek :)
 
