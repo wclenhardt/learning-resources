@@ -1,5 +1,7 @@
 ## Vocabulary and Terms: Piles by Topic
 
+Graciela - you have arrived - erase this and edit anything else  
+
 This page explains some of the terms encountered during Cyberseminars and links to resources on where to learn more about them.
 
 ### Health
